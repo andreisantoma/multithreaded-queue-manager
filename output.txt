@@ -1,0 +1,273 @@
+
+
+Starting simulation...
+12/05/2019 13:44:54
+
+------------------------------------Current simulation time: 1------------------------------------
+Client A(2 second(s) required service time) will be processed by Register1. They have to wait for 0 second(s) before being served.
+Register1: processing client A...
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+------------------------------------Current simulation time: 2------------------------------------
+Register1: processing client A...
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+Register1: finished processing client A.
+------------------------------------Current simulation time: 3------------------------------------
+Client B(1 second(s) required service time) will be processed by Register1. They have to wait for 0 second(s) before being served.
+Register1: processing client B...
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+------------------------------------Current simulation time: 4------------------------------------
+Register1: finished processing client B.
+Register1: processing client B...
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+------------------------------------Current simulation time: 5------------------------------------
+Client C(2 second(s) required service time) will be processed by Register1. They have to wait for 0 second(s) before being served.
+Register1: processing client C...
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+------------------------------------Current simulation time: 6------------------------------------
+Register1: processing client C...
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+Register1: finished processing client C.
+------------------------------------Current simulation time: 7------------------------------------
+Client D(2 second(s) required service time) will be processed by Register1. They have to wait for 0 second(s) before being served.
+Register1: processing client D...
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+Visualization frame thread is stopping..
+------------------------------------Current simulation time: 8------------------------------------
+Register1: processing client D...
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+Register1: finished processing client D.
+------------------------------------Current simulation time: 9------------------------------------
+Register1: currently free... Waiting for new clients.
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+------------------------------------Current simulation time: 10------------------------------------
+Register1: currently free... Waiting for new clients.
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+------------------------------------Current simulation time: 11------------------------------------
+Register1: currently free... Waiting for new clients.
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+------------------------------------Current simulation time: 12------------------------------------
+Register1: currently free... Waiting for new clients.
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+------------------------------------Current simulation time: 13------------------------------------
+Register1: currently free... Waiting for new clients.
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+------------------------------------Current simulation time: 14------------------------------------
+Register1: currently free... Waiting for new clients.
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+------------------------------------Current simulation time: 15------------------------------------
+Register1: currently free... Waiting for new clients.
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+
+Done
+
+Average waiting time for Register1 was: 0.00 second(s). Service time was: 7 second(s). Empty time was: 8 second(s).
+Average waiting time for Register2 was: 0.00 second(s). Service time was: 0 second(s). Empty time was: 15 second(s).
+Register1 is closing..
+Register2 is closing..
+Average waiting time for Register3 was: 0.00 second(s). Service time was: 0 second(s). Empty time was: 15 second(s).
+Register3 is closing..
+Peak time was achieved at: 1 second(s)
+
+
+Starting simulation...
+12/05/2019 13:45:10
+
+------------------------------------Current simulation time: 1------------------------------------
+Register1: currently free... Waiting for new clients.
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+------------------------------------Current simulation time: 2------------------------------------
+Client A(1 second(s) required service time) will be processed by Register1. They have to wait for 0 second(s) before being served.
+Register1: processing client A...
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+Register1: finished processing client A.
+------------------------------------Current simulation time: 3------------------------------------
+Client B(1 second(s) required service time) will be processed by Register1. They have to wait for 0 second(s) before being served.
+Register1: processing client B...
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+Register1: finished processing client B.
+------------------------------------Current simulation time: 4------------------------------------
+Client C(1 second(s) required service time) will be processed by Register1. They have to wait for 0 second(s) before being served.
+Register1: processing client C...
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+Register1: finished processing client C.
+------------------------------------Current simulation time: 5------------------------------------
+Client D(2 second(s) required service time) will be processed by Register1. They have to wait for 0 second(s) before being served.
+Register1: processing client D...
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+------------------------------------Current simulation time: 6------------------------------------
+Register1: processing client D...
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+Register1: finished processing client D.
+------------------------------------Current simulation time: 7------------------------------------
+Client E(2 second(s) required service time) will be processed by Register1. They have to wait for 0 second(s) before being served.
+Register1: processing client E...
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+------------------------------------Current simulation time: 8------------------------------------
+Client F(1 second(s) required service time) will be processed by Register2. They have to wait for 0 second(s) before being served.
+Register1: processing client E...
+Register2: processing client F...
+Register3: currently free... Waiting for new clients.
+Register2: finished processing client F.
+Register1: finished processing client E.
+------------------------------------Current simulation time: 9------------------------------------
+Register1: currently free... Waiting for new clients.
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+------------------------------------Current simulation time: 10------------------------------------
+Client G(2 second(s) required service time) will be processed by Register1. They have to wait for 0 second(s) before being served.
+Register1: processing client G...
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+------------------------------------Current simulation time: 11------------------------------------
+Register1: processing client G...
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+Register1: finished processing client G.
+------------------------------------Current simulation time: 12------------------------------------
+Client H(1 second(s) required service time) will be processed by Register1. They have to wait for 0 second(s) before being served.
+Register1: processing client H...
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+Register1: finished processing client H.
+------------------------------------Current simulation time: 13------------------------------------
+Register1: currently free... Waiting for new clients.
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+Visualization frame thread is stopping..
+------------------------------------Current simulation time: 14------------------------------------
+Client I(1 second(s) required service time) will be processed by Register1. They have to wait for 0 second(s) before being served.
+Register1: processing client I...
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+Register1: finished processing client I.
+------------------------------------Current simulation time: 15------------------------------------
+Register1: currently free... Waiting for new clients.
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+
+Done
+
+Average waiting time for Register1 was: 0.00 second(s). Service time was: 11 second(s). Empty time was: 4 second(s).
+Register1 is closing..
+Average waiting time for Register2 was: 0.00 second(s). Service time was: 1 second(s). Empty time was: 14 second(s).
+Register2 is closing..
+Average waiting time for Register3 was: 0.00 second(s). Service time was: 0 second(s). Empty time was: 15 second(s).
+Peak time was achieved at: 8 second(s)
+Register3 is closing..
+
+
+Starting simulation...
+12/05/2019 13:45:26
+
+------------------------------------Current simulation time: 1------------------------------------
+Register1: currently free... Waiting for new clients.
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+------------------------------------Current simulation time: 2------------------------------------
+Client A(1 second(s) required service time) will be processed by Register1. They have to wait for 0 second(s) before being served.
+Register1: processing client A...
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+Register1: finished processing client A.
+------------------------------------Current simulation time: 3------------------------------------
+Register1: currently free... Waiting for new clients.
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+------------------------------------Current simulation time: 4------------------------------------
+Client B(1 second(s) required service time) will be processed by Register1. They have to wait for 0 second(s) before being served.
+Register1: processing client B...
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+Register1: finished processing client B.
+------------------------------------Current simulation time: 5------------------------------------
+Client C(1 second(s) required service time) will be processed by Register1. They have to wait for 0 second(s) before being served.
+Register1: processing client C...
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+Register1: finished processing client C.
+------------------------------------Current simulation time: 6------------------------------------
+Client D(2 second(s) required service time) will be processed by Register1. They have to wait for 0 second(s) before being served.
+Register1: processing client D...
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+------------------------------------Current simulation time: 7------------------------------------
+Client E(1 second(s) required service time) will be processed by Register2. They have to wait for 0 second(s) before being served.
+Register1: processing client D...
+Register2: processing client E...
+Register3: currently free... Waiting for new clients.
+Register1: finished processing client D.
+Register2: finished processing client E.
+------------------------------------Current simulation time: 8------------------------------------
+Register1: currently free... Waiting for new clients.
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+------------------------------------Current simulation time: 9------------------------------------
+Client F(2 second(s) required service time) will be processed by Register1. They have to wait for 0 second(s) before being served.
+Register1: processing client F...
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+------------------------------------Current simulation time: 10------------------------------------
+Register1: processing client F...
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+Register1: finished processing client F.
+------------------------------------Current simulation time: 11------------------------------------
+Client G(2 second(s) required service time) will be processed by Register1. They have to wait for 0 second(s) before being served.
+Register1: processing client G...
+Register2: currently free... Waiting for new clients.
+Register3: currently free... Waiting for new clients.
+------------------------------------Current simulation time: 12------------------------------------
+Client H(2 second(s) required service time) will be processed by Register2. They have to wait for 0 second(s) before being served.
+Register1: processing client G...
+Register2: processing client H...
+Register3: currently free... Waiting for new clients.
+Register1: finished processing client G.
+------------------------------------Current simulation time: 13------------------------------------
+Client I(2 second(s) required service time) will be processed by Register1. They have to wait for 0 second(s) before being served.
+Register1: processing client I...
+Register2: processing client H...
+Register3: currently free... Waiting for new clients.
+Register2: finished processing client H.
+------------------------------------Current simulation time: 14------------------------------------
+Client J(2 second(s) required service time) will be processed by Register2. They have to wait for 0 second(s) before being served.
+Register1: processing client I...
+Register2: processing client J...
+Register3: currently free... Waiting for new clients.
+Register1: finished processing client I.
+------------------------------------Current simulation time: 15------------------------------------
+Register1: currently free... Waiting for new clients.
+Register2: processing client J...
+Register3: currently free... Waiting for new clients.
+Register2: finished processing client J.
+
+Done
+
+Average waiting time for Register1 was: 0.00 second(s). Service time was: 11 second(s). Empty time was: 4 second(s).
+Average waiting time for Register2 was: 0.00 second(s). Service time was: 5 second(s). Empty time was: 10 second(s).
+Register1 is closing..
+Average waiting time for Register3 was: 0.00 second(s). Service time was: 0 second(s). Empty time was: 15 second(s).
+Register2 is closing..
+Peak time was achieved at: 7 second(s)
+Register3 is closing..
