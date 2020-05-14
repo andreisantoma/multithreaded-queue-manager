@@ -1,2 +1,2 @@
 # multithreaded-queue-manager
-_Java application which simulates the way clients are distributed and served in queues using parallelism_
+_Real-time simulation of the distribution and serving of clients in queues using parallelism_
